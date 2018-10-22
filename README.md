@@ -1,6 +1,6 @@
 # Plugin Totp Authentication
 
-This plugin is a proof-of-concept for 2Factor authenication to Kuzzle, with TOTP protocol.
+This plugin is a proof-of-concept for 2Factor authentication to Kuzzle, with TOTP protocol.
 
 # Configuration
 
